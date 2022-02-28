@@ -15,3 +15,5 @@ class Index
         echo '索嗨';
     }
 }
+
+(new Index())->index();
