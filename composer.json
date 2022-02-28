@@ -1,0 +1,16 @@
+{
+    "name": "rakishly/yanxi",
+    "type": "1",
+    "autoload": {
+        "psr-4": {
+            "Yanxi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wuyue",
+            "email": "wuyue@singbada.cn"
+        }
+    ],
+    "require": {}
+}
