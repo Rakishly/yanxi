@@ -12,7 +12,7 @@ class Index
 {
     public function index()
     {
-        echo '索嗨';
+        echo '索嗨1111k';
     }
 }
 
